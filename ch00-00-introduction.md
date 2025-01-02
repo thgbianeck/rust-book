@@ -48,7 +48,9 @@ Em geral, este livro assume que você o está lendo em sequência, do início ao
 Você encontrará dois tipos de capítulos neste livro: capítulos de conceitos e capítulos de projetos. Nos capítulos de conceitos, você aprenderá sobre um aspecto do Rust. Nos capítulos de projetos, construiremos pequenos programas juntos, aplicando o que você aprendeu até agora. Os capítulos 2, 12 e 20 são capítulos de projetos; os demais são de conceitos.
 
 - O **Capítulo 1** explica como instalar Rust, como escrever um programa "Hello, world!" e como usar Cargo, o gerenciador de pacotes e ferramenta de compilação do Rust.
-- O **Capítulo 2** é uma introdução prática à escrita de um programa em Rust, onde você construirá um jogo de adivinhação de números. Aqui, cobrimos conceitos de forma mais geral, e capítulos posteriores fornecerão mais detalhes. Se você quer colocar a mão na massa logo de cara, o Capítulo 2 é o lugar para isso. O Capítulo 3 aborda recursos do Rust que são semelhantes aos de outras linguagens de programação, e no Capítulo 4 você aprenderá sobre o sistema de propriedade do Rust. Se você é um aprendiz meticuloso que prefere aprender todos os detalhes antes de passar para o próximo, talvez queira pular o Capítulo 2 e ir direto para o Capítulo 3, retornando ao Capítulo 2 quando quiser trabalhar em um projeto aplicando os detalhes aprendidos.
+- O **Capítulo 2** é uma introdução prática à escrita de um programa em Rust, onde você construirá um jogo de adivinhação de números. Aqui, cobrimos conceitos de forma mais geral, e capítulos posteriores fornecerão mais detalhes. Se você quer colocar a mão na massa logo de cara, o Capítulo 2 é o lugar para isso. 
+- O **Capítulo 3** aborda recursos do Rust que são semelhantes aos de outras linguagens de programação, 
+- No **Capítulo 4** você aprenderá sobre o sistema de propriedade do Rust. Se você é um aprendiz meticuloso que prefere aprender todos os detalhes antes de passar para o próximo, talvez queira pular o Capítulo 2 e ir direto para o Capítulo 3, retornando ao Capítulo 2 quando quiser trabalhar em um projeto aplicando os detalhes aprendidos.
 
 - O **Capítulo 5** discute structs e métodos.
 - O **Capítulo 6** cobre enums, expressões match e o constructo de fluxo de controle if let. Você usará structs e enums para criar tipos personalizados em Rust.
@@ -90,7 +92,3 @@ Na maioria das situações, te guiaremos para a versão correta de qualquer cód
 ## Código-Fonte
 
 Os arquivos-fonte dos quais este livro é gerado podem ser encontrados no GitHub.
-
-<!-- ![Ferris com um ponto de interrogação](https://doc.rust-lang.org/book/img/ferris/does_not_compile.svg)
-![Ferris com as mãos para o alto](https://doc.rust-lang.org/book/img/ferris/panics.svg)
-![Ferris com uma garra levantada, encolhendo os ombros](https://doc.rust-lang.org/book/img/ferris/not_desired_behavior.svg) -->
